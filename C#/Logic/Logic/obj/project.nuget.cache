@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "He7Hz38kkvMK0BHvSXOQsRNSroVxIl7QD7ClQW6EgMb7iBUA7ekvln/g1orN2Wg9i8IY0L81rn5hXSHXyP5OwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josea\\OneDrive\\Desktop\\Proctice Programming\\Logic\\C#\\Logic\\Logic\\Logic.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sharetec.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
